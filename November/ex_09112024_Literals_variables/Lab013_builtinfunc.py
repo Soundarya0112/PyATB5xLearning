@@ -1,0 +1,11 @@
+# predefined functions or built in functions
+a = max(12, 0) #max()
+b = min(-1, 0)#min()
+c=pow(2,3)#pow()
+d=abs(-100)#abs()
+e=input("enter ur name pls:")#input()
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)

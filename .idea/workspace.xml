@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="7th nov" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="7th nov">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,14 @@
     "Python.Lab003_print function.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab013_builtinfunc.executor": "Run",
+    "Python.Lab014_inputfun.executor": "Run",
+    "Python.Lab015_input_sumof_twono's.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/soundarya/Desktop/python Automation/PyATB5xLearning"
@@ -70,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730948098553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1730948247909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730948247909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1731145216882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731145216882</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -84,6 +110,16 @@
           <url>file://$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab011_typeFun.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab012_multilinecomment.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
