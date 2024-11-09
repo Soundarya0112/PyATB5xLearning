@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab015_input_sumof_twono's.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab015_input_of_twono's.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab017.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +50,7 @@
     "Python.Lab014_inputfun.executor": "Run",
     "Python.Lab015_input_sumof_twono's.executor": "Run",
     "Python.Lab016_.executor": "Run",
+    "Python.Lab017.executor": "Run",
     "Python.Lab017_.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -173,7 +179,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731176315292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731176375975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731176375975</updated>
+    </task>
+    <task id="LOCAL-00014" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731176486921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731176486921</updated>
+    </task>
+    <task id="LOCAL-00015" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731176505117</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731176505117</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
