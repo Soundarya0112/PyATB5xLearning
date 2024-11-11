@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab011_typeFun.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab011_typeFun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab014_inputfun.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab014_inputfun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab020.py" beforeDir="false" />
-    </list>
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +50,7 @@
     "Python.Lab020.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/soundarya/Desktop/python Automation/PyATB5xLearning"
   },
   "keyToStringList": {
@@ -213,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731300305152</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731350009371</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731350009371</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
