@@ -7,5 +7,5 @@ div=(a/b)/c
 mul=a*b*c
 print("addition of the 3 numbers is:",Sum)
 print("subtraction of the 3 numbers is:",sub)
-print("division of the 312 numbers is:",div)
+print("division of the 3 numbers is:",div)
 print("multiplication of the 3 numbers is:",mul)
