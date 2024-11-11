@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab015_input_sumof_twono's.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab015_input_of_twono's.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab011_typeFun.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab011_typeFun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab014_inputfun.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab014_inputfun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab020.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     "Python.Lab016_.executor": "Run",
     "Python.Lab017.executor": "Run",
     "Python.Lab017_.executor": "Run",
+    "Python.Lab020.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/soundarya/Desktop/python Automation/PyATB5xLearning"
@@ -203,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731176505117</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731300305152</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731300305152</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

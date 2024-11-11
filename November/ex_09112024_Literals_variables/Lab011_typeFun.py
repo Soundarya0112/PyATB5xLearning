@@ -8,6 +8,7 @@ print(rollno)
 
 print(type(rollno))
 
+# Python determines thetypeofavariableduringruntime,ratherthan during compilation ->dynamically typed
 a=12.9
 print(a)
 print(type(a))
