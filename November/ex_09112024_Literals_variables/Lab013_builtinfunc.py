@@ -43,6 +43,10 @@ k="Soundarya Ummaneni" #lower()
 print(k.lower())
 print(k)
 
+q,r=divmod(13,5)
+print(q)
+print(r)
+print(q,r,sep=",")
 
 
 

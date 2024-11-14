@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov">
+      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab025_if-else_coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab026_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab027_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab001_Python_helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab001_Python_helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab002_python computations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab003_print function.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab003_print function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_12112024_operators/Lab020_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_12112024_operators/Lab020_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_12112024_operators/Lab021_area_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_12112024_operators/Lab021_area_code.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +38,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Soundarya0112&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Soundarya0112/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;bb4655ba-21b0-437a-a05f-bd0618da5437&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2oQ0w6yP1BqnUGdBiaPOJBzBVYp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,14 +72,27 @@
     "Python.Lab008.executor": "Run",
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
+    "Python.Lab012_multilinecomment.executor": "Run",
     "Python.Lab013.executor": "Run",
     "Python.Lab013_builtinfunc.executor": "Run",
     "Python.Lab014_inputfun.executor": "Run",
     "Python.Lab015_input_sumof_twono's.executor": "Run",
     "Python.Lab016_.executor": "Run",
+    "Python.Lab016_strconcat.executor": "Run",
     "Python.Lab017.executor": "Run",
     "Python.Lab017_.executor": "Run",
+    "Python.Lab017_Escape_seq.executor": "Run",
+    "Python.Lab018_Task1.executor": "Run",
+    "Python.Lab019_task2.executor": "Run",
     "Python.Lab020.executor": "Run",
+    "Python.Lab020_operators.executor": "Run",
+    "Python.Lab021_area_code.executor": "Run",
+    "Python.Lab022_Task1.executor": "Run",
+    "Python.Lab023_Task2.executor": "Run",
+    "Python.Lab024_Task3.executor": "Run",
+    "Python.Lab025_if-else_coding.executor": "Run",
+    "Python.Lab026_Task1.executor": "Run",
+    "Python.Lab027_Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -232,7 +277,47 @@
       <option name="project" value="LOCAL" />
       <updated>1731350393979</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731350694877</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1731350694877</updated>
+    </task>
+    <task id="LOCAL-00021" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731351153154</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1731351153154</updated>
+    </task>
+    <task id="LOCAL-00022" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731351204489</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1731351204489</updated>
+    </task>
+    <task id="LOCAL-00023" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731420085517</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731420085517</updated>
+    </task>
+    <task id="LOCAL-00024" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731428879947</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731428879947</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,7 +329,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py</url>
+          <url>file://$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

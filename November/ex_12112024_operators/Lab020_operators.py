@@ -110,3 +110,15 @@ print("a is smaller" if a<b else "a is larger")
 
 age=int(input("enter ur correct age:"))
 print("u can go for vote" if age>18 else "u cannot vote")
+
+#bit wise operat --> (&,|,~,>>,<<,^)
+a=10#1010
+b=2#0010
+print(a&b)#0010=2
+print(a|b)#1010=10
+print(~a)#0000 1010  --> 1111 0101-> add1 to original bit  1011=-11
+print(~b)# 0000 0010 -->1111 1101-->add1 to original bit  0011=-3
+print(a>>1)#0101=5-->10//2 pow1 =5
+print(a>>2)#0010=2-->10// 2 pow 2=2
+print(a<<1)#10100=20-->10* 2pow 1=20
+print(a<<2)#101000=40--> 10* 2 pow 2=40
