@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="9th nov">
-      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab025_if-else_coding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab026_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_14112024_Conditions/Lab027_Task2.py" afterDir="false" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="18th nov">
+      <change afterPath="$PROJECT_DIR$/November/Keywords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab001_Python_helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab001_Python_helloworld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab002_python computations.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab002_python computations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/Lab003_print function.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/Lab003_print function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_05112024_Python_Basics/ex_07112024_keywords_identifiers/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab013_builtinfunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_12112024_operators/Lab020_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_12112024_operators/Lab020_operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_12112024_operators/Lab021_area_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_12112024_operators/Lab021_area_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_16112024_Loops/Lab032_coding practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_16112024_Loops/Lab032_coding practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_16112024_Loops/Lab033_patternsPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_16112024_Loops/Lab033_patternsPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,53 +48,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001_Python_helloworld.executor": "Run",
-    "Python.Lab002_python computations.executor": "Run",
-    "Python.Lab003_print function.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab012_multilinecomment.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab013_builtinfunc.executor": "Run",
-    "Python.Lab014_inputfun.executor": "Run",
-    "Python.Lab015_input_sumof_twono's.executor": "Run",
-    "Python.Lab016_.executor": "Run",
-    "Python.Lab016_strconcat.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab017_.executor": "Run",
-    "Python.Lab017_Escape_seq.executor": "Run",
-    "Python.Lab018_Task1.executor": "Run",
-    "Python.Lab019_task2.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab020_operators.executor": "Run",
-    "Python.Lab021_area_code.executor": "Run",
-    "Python.Lab022_Task1.executor": "Run",
-    "Python.Lab023_Task2.executor": "Run",
-    "Python.Lab024_Task3.executor": "Run",
-    "Python.Lab025_if-else_coding.executor": "Run",
-    "Python.Lab026_Task1.executor": "Run",
-    "Python.Lab027_Task2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/soundarya/Desktop/python Automation/PyATB5xLearning"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_python computations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_print function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_multilinecomment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_builtinfunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_inputfun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_input_sumof_twono's.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_strconcat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017_Escape_seq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_area_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024_Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_if-else_coding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_forLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_whileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_matchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_coding practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_patternsPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/soundarya/Desktop/python Automation/PyATB5xLearning&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="print" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab028_forLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_16112024_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_16112024_Loops/Lab028_forLoop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab029_whileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_16112024_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_16112024_Loops/Lab029_whileLoop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab028_forLoop" />
+        <item itemvalue="Python.Lab029_whileLoop" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -317,13 +365,39 @@
       <option name="project" value="LOCAL" />
       <updated>1731428879947</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731563082666</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731563082666</updated>
+    </task>
+    <task id="LOCAL-00026" summary="16th nov">
+      <option name="closed" value="true" />
+      <created>1731822874339</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731822874339</updated>
+    </task>
+    <task id="LOCAL-00027" summary="18th nov">
+      <option name="closed" value="true" />
+      <created>1731907279401</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1731907279401</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th nov" />
     <MESSAGE value="9th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th nov" />
+    <MESSAGE value="16th nov" />
+    <MESSAGE value="18th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -342,6 +416,11 @@
           <url>file://$PROJECT_DIR$/November/ex_09112024_Literals_variables/Lab012_multilinecomment.py</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November/ex_16112024_Loops/Lab029_whileLoop.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

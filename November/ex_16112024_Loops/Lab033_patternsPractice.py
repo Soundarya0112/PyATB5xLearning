@@ -60,7 +60,54 @@ for i in range(1,6):
     for j in range(n-i,0,-1):
         print("*",end=" ")
     print("")
+for i in range(1,6):
+    for j in range(1,i+1):
+        print("*",end=" ")
+    print("")
 
-
+#Half Diamond Pattern
+for i in range(1,6):
+    for j in range(1,i+1):
+        print("*",end=" ")
+    print("")
+n=6
+for i in range(1,6):
+    for j in range(n-i,0,-1):
+        print("*",end=" ")
+    print("")
+# Reverse pyramid
+n=int(input("enter number of rows:"))
+for i in range(1,n+1):
+    for j in range(1,i+1):
+        print("*",end=" ")
+    print("")
+k=n
+for i in range(1,5):
+    for j in range(k-i,0,-1):
+        print("*",end=" ")
+    print("")
+"""
+#number patterns
+"""
+#1
+n=5
+num=1
+for i in range(0,5):
+    for j in range(0,i+1):
+        print(num,end=" ")
+        num=num+1
+    print("")
+    
+#2
+for i in range(1,6):
+    for j in range(1,i+1):
+        print(i,end=" ")
+    print("") 
+#3
+for i in range(1,6):
+    for j in range(1,i+1):
+        print(j,end=" ")
+    print("")
+    
 """
 
