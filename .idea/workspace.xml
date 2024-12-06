@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="23th nov">
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024-LambdaFun/Lab047_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_29112024_dictonary_programs/Lab048_programpractice_dict1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_29112024_dictonary_programs/Lab049_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_29112024_dictonary_programs/Lab050_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_29112024_dictonary_programs/Lab051_vowelsIn String_Program.py" afterDir="false" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="26th nov">
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab052_basic_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab053_basic_oops_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab054_EX1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab055_EX2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab056_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_28112024_OOPS/Lab057_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_23112024-LambdaFun/Lab046_DataStrutures_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_23112024-LambdaFun/Lab046_DataStrutures_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_25112024_dictonary_programs/Lab048_programpractice_dict1.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_26112024_dictonary_programs/Lab048_programpractice_dict1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_25112024_dictonary_programs/Lab049_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_26112024_dictonary_programs/Lab049_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_25112024_dictonary_programs/Lab050_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_26112024_dictonary_programs/Lab050_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_25112024_dictonary_programs/Lab051_vowelsIn String_Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_26112024_dictonary_programs/Lab051_vowelsIn String_Program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +118,11 @@
     "Python.Lab049_Task1.executor": "Run",
     "Python.Lab050_Task2.executor": "Run",
     "Python.Lab051_vowelsIn String_Program.executor": "Run",
+    "Python.Lab052_basic_oops.executor": "Run",
+    "Python.Lab053_basic_oops_constructor.executor": "Run",
+    "Python.Lab054_EX1.executor": "Run",
+    "Python.Lab055_EX2.executor": "Run",
+    "Python.Lab056_Task1.executor": "Run",
     "Python.a.executor": "Run",
     "Python.abc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -453,7 +462,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732782956969</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="23th nov">
+      <option name="closed" value="true" />
+      <created>1732871052038</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732871052038</updated>
+    </task>
+    <task id="LOCAL-00033" summary="26th nov">
+      <option name="closed" value="true" />
+      <created>1732871159564</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732871159564</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -463,7 +488,8 @@
     <MESSAGE value="18th nov" />
     <MESSAGE value="21th nov" />
     <MESSAGE value="23th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="23th nov" />
+    <MESSAGE value="26th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="26th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
