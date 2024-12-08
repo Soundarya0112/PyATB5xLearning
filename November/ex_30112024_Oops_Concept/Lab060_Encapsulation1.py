@@ -1,4 +1,5 @@
 #Encapsulation --we can restrict access to variables and methods/function
+# wrapping or binding the data variables with the methods called encapsulation
 #private through  __(underscore)
 class WebPage:
     def __init__(self,name,password):
