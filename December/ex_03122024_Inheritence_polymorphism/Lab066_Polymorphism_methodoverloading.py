@@ -33,3 +33,13 @@ add1=Addition()
 print(add1.add(2,3))
 print(add1.add(2,3,4))
 print(add1.add(2,3,4,5))
+
+print("--------------new method------")
+class Addition:
+    def add(self,*args):
+        return sum(*args)
+    # *args--n no of arguments or values
+    o1=Addition()
+    print(o1.add(2,4,6))
+    print(o1.add(100,100))
+    print(o1.add(100,100,10000,1))
