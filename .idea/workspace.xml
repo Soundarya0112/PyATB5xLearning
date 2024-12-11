@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="3rd Dec">
-      <change afterPath="$PROJECT_DIR$/December/ex_05122024_Abstraction_staticmethod/Lab067_Abstarctio_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/ex_05122024_Abstraction_staticmethod/Lab068_Static Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/ex_05122024_Abstraction_staticmethod/Lab069_Task1.py" afterDir="false" />
+    <list default="true" id="25265e9b-21ec-4010-b8b0-225cc48607ad" name="Changes" comment="5th Dec">
+      <change afterPath="$PROJECT_DIR$/December/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab070_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab071_Exception_tryExceptElseFinally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab072_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab073_Class_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab074_FileIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab075_CustomException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/ex_07122024_Exception/Lab076_MainMethodConcept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab062_SingleLevelInheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab062_SingleLevelInheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab063_MultiLevelInheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab063_MultiLevelInheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab064_MultipleInheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab064_MultipleInheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab065_HeiracialInheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab065_HeiracialInheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab066_Polymorphism_methodoverloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab066_Polymorphism_methodoverloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December/ex_03122024_Inheritence/Lab066_Polymorphism_methodoverriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/December/ex_03122024_Inheritence_polymorphism/Lab066_Polymorphism_methodoverriding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +131,13 @@
     "Python.Lab067_Abstarctio_basics.executor": "Run",
     "Python.Lab068_Static Method.executor": "Run",
     "Python.Lab069_Task1.executor": "Run",
+    "Python.Lab070_Exception.executor": "Run",
+    "Python.Lab071_ExceptionProgram.executor": "Run",
+    "Python.Lab072_OS.executor": "Run",
+    "Python.Lab073_Class_exception.executor": "Run",
+    "Python.Lab074_FileIO.executor": "Run",
+    "Python.Lab075_CustomException.executor": "Run",
+    "Python.Lab076_MainMethodConcept.executor": "Run",
     "Python.Lab62_SingleLevelInheritence.executor": "Run",
     "Python.Lab63_MultiLevelInheritence.executor": "Run",
     "Python.Lab64_MultipleInheritence.executor": "Run",
@@ -517,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733646723224</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="5th Dec">
+      <option name="closed" value="true" />
+      <created>1733757747815</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733757747815</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -531,7 +545,8 @@
     <MESSAGE value="28th nov" />
     <MESSAGE value="30th nov" />
     <MESSAGE value="3rd Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd Dec" />
+    <MESSAGE value="5th Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th Dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -555,6 +570,10 @@
           <url>file://$PROJECT_DIR$/November/ex_16112024_Loops/Lab029_whileLoop.py</url>
           <line>11</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/December/ex_07122024_Exception/Lab070_Exception.py</url>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
