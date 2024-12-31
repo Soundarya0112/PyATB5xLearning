@@ -16,3 +16,6 @@ with open("pinky.txt","a") as file: #append
     file.write(" hello pinky")
 with open("tara.txt","a") as file: #append  #keep's appending until we run
     file.write(" hello tara")
+
+#need to learn the csv file`pip install pytest`
+
